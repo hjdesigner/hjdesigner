@@ -27,3 +27,11 @@ I always try to be in tune with what is happening in the front-end world and alw
   <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
 </a>
 
+
+### Find me elsewhere
+<a href="https://www.linkedin.com/in/coisadedev/">
+  <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="https://twitter.com/coisadedev">
+  <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+</a>
