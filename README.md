@@ -27,11 +27,15 @@ I always try to be in tune with what is happening in the front-end world and alw
   <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
 </a>
 
+![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=hjdesigner&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjdesigner&layout=compact&theme=radical)](https://github.com/hjdesigner/github-readme-stats)
+
 
 ### Find me elsewhere
-<a href="https://www.linkedin.com/in/coisadedev/">
+<a href="https://www.linkedin.com/in/coisadedev/" target="_blank">
   <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
-<a href="https://twitter.com/coisadedev">
+<a href="https://twitter.com/coisadedev" target="_blank">
   <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
