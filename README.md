@@ -1,16 +1,29 @@
-### Hi there 👋
+### Front-End Developer
 
-<!--
-**hjdesigner/hjdesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Henrique Melanda. Nice to meet you!
 
-Here are some ideas to get you started:
+I am a Brazilian developer passionate about writing code for the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I always try to be in tune with what is happening in the front-end world and always willing to contribute to Open Source projects.
+
+#### Techs
+
+<a href="#">
+  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+</a>
+
