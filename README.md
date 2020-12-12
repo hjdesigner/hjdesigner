@@ -27,6 +27,7 @@ I always try to be in tune with what is happening in the front-end world and alw
   <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
 </a>
 
+
 ![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=hjdesigner&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjdesigner&layout=compact&theme=radical)](https://github.com/hjdesigner/github-readme-stats)
